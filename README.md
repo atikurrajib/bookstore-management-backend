@@ -23,7 +23,7 @@ A robust and lightweight RESTful API for managing a bookstore, built using **Go*
 - [x] **Update Book**: Modify existing book details.
 - [x] **Delete Book**: Remove records using GORM's efficient deletion (supports Soft Delete).
 
-## 💻 Project Setup
+## 💻 Installations & Setup:
 
 1.  **Database Configuration**: Create a MySQL database named `simplerest`.
 2.  **Environment Setup**: Update your MySQL credentials (username and password) in `pkg/config/app.go`.
